@@ -1,0 +1,16 @@
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    color: #00ff66;
+    margin-bottom: 15px;
+}
+
+body{
+    background: rgba(46, 45, 45, 0.877);
+    color: white;
+}
+
